@@ -85,7 +85,7 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanand&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanandhumbi221-droid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/shivanand">
+  <a href="https://github.com/shivanandhumbi221-droid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
